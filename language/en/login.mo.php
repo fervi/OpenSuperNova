@@ -131,8 +131,8 @@ $a_lang_array = (array(
   'login_register_offer' => 'Click here to register',
   'login_password_restore_offer' => 'Click here to reset password',
 
-  'login_register_email_hint' => 'Указывайте работающий e-mail - владельцем аккаунта считается владелец указанного e-mail<br />
-    Постарайтесь не использовать ящики на mail.ru',
+  'login_register_email_hint' => 'Specify a working e-mail - the owner of the account is considered the owner of the specified e-mail
+Try not to use the boxes on mail.ru',
 
   'login_account_name_or_email' => 'Account name or e-mail:',
 
